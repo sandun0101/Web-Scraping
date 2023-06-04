@@ -1,0 +1,2 @@
+
+BASE_URL = 'https://www.thumbtack.com/md/havre-de-grace/handyman/harford-handy-llc/service/440736644627759105?from_native_webview=true&supports_redirect_ttevent=true&native_app_name=com.thumbtack.wingtip&native_app_build=8470&native_app_version=306.0&native_os_version=16.4.1&native_device_type=iPhone14%'
