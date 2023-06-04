@@ -1,0 +1,2 @@
+BASE_URL = "https://www.amazon.com/CyberpowerPC-Xtreme-i7-12700F-GeForce-GXiVR8040A12/product-reviews/B0B7872PZR/ref" \
+           "=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2"
